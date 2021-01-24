@@ -2,6 +2,10 @@
 
 ---
 
+NOTE: Mongolab addon has been discontinued on heroku so I was unable to host my work there.
+
+---
+
 ### Index
 
 - Update Record
